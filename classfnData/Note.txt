@@ -1,0 +1,23 @@
+class imbalance: ozone, cl
+
+nominal variable:
+ - mushroom
+
+
+
+Numeric variable:
+ - spambase1 (class - 0: 2788, 1: 1812 (39); inst: 4600)
+ - diabetes1 (class - 0: 500, 1: 267 (35%); inst: 767)
+
+ - banknote1 (class -1: 762, 1: 609 (44%); inst: 1371)
+ - phoneme1 (class - 1: 3818, 2: 1586 (29%); inst: 5404)
+
+ - ring (class - 1: 3664, 2:3736; inst: 7400)
+
+
+
+ - bloodtransfusion (class - 1: 570, 2:	177 (24%); inst: 747)
+ - clean2 (class- 0: 5581, 1: 1017 (15%); inst: 6598)
+
+Mixed Nom/Num variables:
+ - 
