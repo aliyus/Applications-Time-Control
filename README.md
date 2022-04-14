@@ -1,4 +1,4 @@
-# TC-Applications-Ant
+# Applications of Time Control
 
 
 This code set of code is used assess the evaluation time schemes introduced in https://doi.org/10.1016/j.asoc.2021.107198 on a variety of GP applications. The problem domains are described as follows:
