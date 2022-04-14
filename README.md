@@ -1,7 +1,19 @@
 # TC-Applications-Ant
 
 
+This code set of code is used assess the evaluation time schemes introduced in https://doi.org/10.1016/j.asoc.2021.107198 on a variety of GP applications. The problem domains are described as follows:
 
+## Boolean logic - Multiplexer
+For the Boolean logic applications, the multiplexer and even-parity problems are used. The challenge in the multiplexer problem (henceforth termed Multiplexer) \cite{oai:IEEE-CS:10.1109/EH.1999.785434, koza1992genetic} is for GP to use Boolean logic operators to reproduce the behaviour of an electronic multiplexer given all its possible input and output values. 
+
+## Boolean logic - Even Parity
+The challenge in the even-parity problem (Parity) \cite{harding2009self, koza1992genetic} is for GP to use Boolean logic operators to find a solution that produces the value of the Boolean even parity given $n$ independent Boolean inputs.  
+
+## Robot Rontrol: ANT
+For the robot control application, GP is used to evolve solutions to the well known artificial ant problem (ANT) \cite{iba:1996:aigp2, koza1992genetic}. The challenge in ANT is to evolve a routine for navigating a robotic ant on a virtual field to help it find food items within a given time limit. 
+
+## Classification with GPML
+The classification application uses a hybridisation of GP with machine learning (GPML). Like MLR-GP in Chapter~\ref{Chapter8}, the hybridisation involves GP and machine learning (GPML), whereas here it is for classification; GP engineers a set of features and then logistic regression \cite{kleinbaum2002logistic} uses these features to build a classification model. 
 
 
 
