@@ -17,7 +17,7 @@ The classification application uses a hybridisation of GP with machine learning 
 
 
 
-# Derived Pulications:
+# Derived Publications:
 
 Aliyu Sani Sambo, R. Muhammad Atif Azad, Yevgeniya Kovalchuk, Vivek P. Indramohan, Hanifa Shah.  *“Evolving Simple and Accurate Symbolic Regression Models via Asynchronous Parallel Computing"* In: Applied Soft Computing 104 (2021), p. 107198. ISSN: 1568-4946.
  URL: https://doi.org/10.1016/j.asoc.2021.107198
